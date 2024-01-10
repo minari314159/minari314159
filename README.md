@@ -1,16 +1,16 @@
 <h2 align="center">Hej hej,</h2><h1 align="center"> SJ Olsen </h1>
 
-<h3 align="center">🌱I'm a Back End Developer and aspiring to become a Full Stack Developer! I specialize in integrating data driven 3D scene and interactivity in web apps!🌱</h3>
+<h3 align="center">🌱I'm a Data Scientist aspiring to become more prolific in machine learning! I specialize in integrating data-driven 3D scene and interactivity into dashboards and web apps!🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
 - 🔭 I’m currently working on **My New R3F Portfolio**
 
-- 🌱 I’m currently learning **Flask and Django**
+- 🌱 I’m currently learning **D3 and Pytorch**
 
-- 💬 Ask me about **React, NextJs and R3F**
+- 💬 Ask me about **Python, Pandas, SQL and R3F**
 
-- 📫 How to reach me **minmin314159@proton.me**
+- 📫 How to reach me **ucbqols@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
