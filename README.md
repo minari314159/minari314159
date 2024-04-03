@@ -1,12 +1,12 @@
 <h2 align="center">Hej hej,</h2><h1 align="center"> SJ Olsen </h1>
 
-<h3 align="center">🌱I'm a Data Scientist aspiring to become more prolific in machine learning! I specialize in integrating data-driven 3D scene and interactivity into dashboards and web apps!🌱</h3>
+<h3 align="center">🌱As a highly skilled Environmental Data Scientist, I excel in utilizing machine learning algorithms to integrate data-driven 3D scenes and interactivity into dashboards and web applications.🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
-- 🔭 I’m currently working on **My New R3F Portfolio**
+- 🔭 I’m currently working on **Biodiversity ML Model**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently perfecting **Pytorch**
 
 - 💬 Ask me about **Python, Pandas, SQL and R3F**
 
