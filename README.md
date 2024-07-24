@@ -1,6 +1,6 @@
 <h2 align="center">Hej hej,</h2><h1 align="center"> SJ Olsen </h1>
 
-<h3 align="center">🌱 I excel in utilizing machine learning algorithms to integrate data-driven 3D scenes and interactivity into web applications.🌱</h3>
+<h3 align="center">🌱 I excel in node.js backend applications and NextJs FullStack Applications to integrate data-driven 3D scenes and interactivity into web applications.🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
