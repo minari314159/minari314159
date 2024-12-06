@@ -1,13 +1,9 @@
 <h2 align="center">Hej hej,</h2><h1 align="center">🌱 SJ Olsen 🌱</h1>
 
-<h3 align="left"> I am a data scientist with a focus on machine learning and deep learning. My primary tools are Python and TensorFlow Keras, which I use to build, train, and optimize models for a variety of data-driven projects.</h3>
-<p align="left">Here, you will find projects showcasing:
+<h3 align="left"> I am a web developer specialized  in javascript and python with a focus on React and
+							Django ecosystems. For the past 3 years, I have honed my skills in frontend and
+								backend development, with a focus on animated 3D websites.</h3>
 
-- **Data Analysis & Visualization**: Using Python libraries such as `pandas`, `matplotlib`, and `seaborn` to explore and visualize datasets.
-- **Machine Learning Models**: Implementations of classification, regression, and clustering algorithms using libraries like `scikit-learn`.
-- **Deep Learning with Keras**: Custom neural networks for tasks such as image classification, natural language processing, and time series forecasting, built with TensorFlow’s Keras API.
-- **Model Optimization**: Techniques such as hyperparameter tuning, dropout, and batch normalization to enhance model performance.
-  </p>
 
   <p align ="left">Feel free to explore the repos and reach out with any questions or collaboration opportunities!</p>
 
