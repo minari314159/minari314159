@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
-- 🌱 I’m currently perfecting **Keras & SQL**
+- 🌱 I’m currently perfecting **R3F & SQL**
 
 - 📫 How to reach me **ucbqols@gmail.com**
 
