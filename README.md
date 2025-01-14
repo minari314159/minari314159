@@ -1,8 +1,9 @@
 <h2 align="center">Hej hej,</h2><h1 align="center">🌱 SJ Olsen 🌱</h1>
 
-<h3 align="left"> I am a web developer specialized  in javascript and python with a focus on React and
-							Django ecosystems. For the past 3 years, I have honed my skills in frontend and
-								backend development, with a focus on animated 3D websites.</h3>
+<h3 align="left"> Front End/Full Stack Engineer with 2+ years of experience and strong fundamentals in frontend
+technologies. I specialize in javascript with a focus on Nextjs & React ecosystems.
+I excel in solving problems and being creative by building things through code and implementing satisfying
+animations - it is my passion. My work aims to bridge the gap between creativity and technical execution with a focus on animated 3D websites.</h3>
 
 
   <p align ="left">Feel free to explore the repos and reach out with any questions or collaboration opportunities!</p>
@@ -10,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
-- 🌱 I’m currently perfecting **R3F & SQL**
+- 🌱 I’m currently perfecting **R3F & Nextjs**
 
 - 📫 How to reach me **ucbqols@gmail.com**
 
