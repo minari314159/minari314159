@@ -1,7 +1,7 @@
 <h2 align="center">Hej hej,</h2><h1 align="center">🌱 SJ Olsen 🌱</h1>
 
-<h3 align="left"> Front End/Full Stack Engineer with 2+ years of experience and strong fundamentals in frontend
-technologies. I specialize in javascript with a focus on Nextjs & React ecosystems.
+<h3 align="left"> Full Stack Engineer with 4+ years of experience and strong fundamentals in frontend
+technologies. I specialize in javascript/typscript with a focus on React ecosystems & nodejs.
 I excel in solving problems and being creative by building things through code and implementing satisfying
 animations - it is my passion. My work aims to bridge the gap between creativity and technical execution with a focus on animated 3D websites.</h3>
 
@@ -11,7 +11,7 @@ animations - it is my passion. My work aims to bridge the gap between creativity
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" /> </p>
 
-- 🌱 I’m currently perfecting **R3F & Nextjs**
+- 🌱 I’m currently perfecting **three.js & express.js**
 
 - 📫 How to reach me **ucbqols@gmail.com**
 
