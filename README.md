@@ -1,6 +1,6 @@
 <h2 align="center">Hej hej,</h2><h1 align="center">🌱 SJ Olsen 🌱</h1>
 
-<h3 align="left"> Full Stack Engineer with 4+ years of experience and strong fundamentals in frontend
+<h3 align="left"> Full Stack Engineer with 3+ years of experience and strong fundamentals in frontend
 technologies. I specialize in javascript/typscript with a focus on React ecosystems & nodejs.
 I excel in solving problems and being creative by building things through code and implementing satisfying
 animations - it is my passion. My work aims to bridge the gap between creativity and technical execution with a focus on animated 3D websites.</h3>
