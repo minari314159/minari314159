@@ -1,12 +1,12 @@
 <h2 align="center">Hej hej,</h2>
-<h1 align="center">🐱 SJ Olsen — Solutions Architect 🐱</h1>
+<h1 align="center">🐱 SJ Olsen 🐱</h1>
 
 <h3 align="left">
-I'm SJ — a Full Stack Engineer with over 3 years of experience designing and developing robust web applications using JavaScript, TypeScript, React, and Node.js. Now, I’m evolving into a Solutions Architect, with a strong focus on AWS infrastructure, cloud-native systems, and network design (CCNA). I bring a creative edge to system thinking, balancing clean code with scalable architecture and real-world impact.
+I'm SJ — a Full Stack Engineer with over 4+ years of experience designing and developing robust web applications using JavaScript (yes Typescript too, of course), React, and Express.js. I specialize and prefer more the backend and its subsequent technologies and logics, creating efficient but definitely secure APIs. I have experience with AWS (all my code at some point was hosted in our favourite EC2 instances) and I bring a creative edge to system thinking, balancing clean code with scalable architecture and real-world impact.
 </h3>
 
 <h4 align="left">
-I thrive at the intersection of engineering and strategy — translating technical challenges into clear, maintainable solutions. Whether working across the stack or architecting cloud infrastructure, I focus on building systems that are thoughtful, efficient, and resilient.
+I thrive at the intersection of engineering and strategy — translating technical challenges into clear, maintainable solutions. Whether working across the stack or just the backend, I focus on building systems that are thoughtful, efficient, and resilient.
 </h4>
 
 <p align ="left">Explore the repos and feel free to reach out for questions, collaboration, or a good tech chat!</p>
@@ -18,9 +18,8 @@ I thrive at the intersection of engineering and strategy — translating technic
 ---
 
 ### 🔭 Currently Focused On:
-- Designing scalable cloud architectures on **AWS**
-- Deepening networking & systems knowledge via **CCNA**
 - Infrastructure as Code (Terraform, AWS CDK)
+- And of course integrating AI into the mix in some form or another
 - Strengthening DevOps pipelines & deployment strategy
 
 ---
@@ -51,13 +50,8 @@ I thrive at the intersection of engineering and strategy — translating technic
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trpc.png" alt="tRPC" title="tRPC"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-<!-- 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code> -->
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
-<!-- 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></code> -->
-<!-- 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code> -->
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code>
-<!-- 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code> -->
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code> 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 </div>
 <div align="center">
@@ -82,5 +76,5 @@ I thrive at the intersection of engineering and strategy — translating technic
 ---
 
 ### ⚡ A Bit of Personality  
-Even as I step into architecture and infrastructure, I’m still bringing creativity with me. Whether it's an animated 3D interface or a well-structured VPC, my goal is to build systems that are not just functional — but beautiful in their logic.
+Even as I write backend code or fix bugs, I’m still bringing creativity with me. Whether it's an animated 3D interface or a well-structured VPC, my goal is to build systems that are not just functional — but beautiful in their logic.
 
