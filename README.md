@@ -2,7 +2,7 @@
 <h1 align="center">🐱 SJ Olsen 🐱</h1>
 
 <h3 align="left">
-I'm SJ — a Full Stack Engineer with over 3+ years of experience designing and developing robust web applications using JavaScript (yes Typescript too, of course), React, and Express.js. I specialize and prefer more the backend and its subsequent technologies and logics, creating efficient but definitely secure APIs. I have experience with AWS (all my code at some point was hosted in our favourite EC2 instances) and I bring a creative edge to system thinking, balancing clean code with scalable architecture and real-world impact.
+I'm SJ — a Full Stack Engineer with over 3 years of experience designing and developing robust web applications using JavaScript (yes Typescript too, of course), React, Express.js and our wonderful Python (Django/Flask). I specialize and prefer more the backend and its subsequent technologies and logics, creating efficient but definitely secure APIs. I have experience with AWS (all my code at some point was hosted in our favourite EC2 instances) but often use Vercel & Firebase and I bring a creative edge to system thinking, balancing clean code with scalable architecture and real-world impact.
 </h3>
 
 <h4 align="left">
@@ -18,9 +18,10 @@ I thrive at the intersection of engineering and strategy — translating technic
 ---
 
 ### 🔭 Currently Focused On:
-- Infrastructure as Code (Terraform, AWS CDK)
+- Improving, optimizing and testing my previous works
 - And of course integrating AI into the mix in some form or another
-- Strengthening DevOps pipelines & deployment strategy
+- Adding some fun frontend UI to the mix
+
 
 ---
 
