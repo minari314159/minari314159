@@ -1,65 +1,127 @@
-<h1 align="center">👋 Hello, I'm SJ! </h1>
+<h1 align="center">Hey there 👋, I'm SJ Olsen a Frontend Developer</h1>
 
-<h3 align="center"> A passionate Data Scientist... Well actually, I’m a data nerd with a background in chemistry & materials science. I started out in labs, working hands-on with experiments and processing data, and somewhere along the way, I became just as curious about the numbers as the materials themselves. <br/> <br/> These days, I use Python (Pandas, NumPy, Scikit-learn) and SQL to sift through messy experimental datasets, clean them up properly, and build models that stand up to scrutiny. I care less about flashy metrics and more about whether a model actually makes sense in the real world.<br/> <br/>  Most of my work revolves around turning raw lab and process data into something dependable — analysis you can trust, models you can validate, and results that help move research and development forward. If it involves scientific data, careful thinking, and a bit of problem-solving obsession, I’m probably already interested. 🚀 </h3>
+<h2>📖 Bio:</h2> 
 
-<h5 align ="left">Explore the repos and feel free to reach out for questions, collaboration, or a good tech chat!</h5>
+<p>I’m a frontend developer who loves crafting interfaces that strike a balance between solid architecture and great design.
+I actually started out in biodesign, which taught me to think about form, function, and flow all at once. That mindset stuck with me — now I bring it into how I approach frontend systems, animation, and user interactions.</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=minari314159&label=Profile%20views&color=0e75b6&style=flat" alt="minari314159" />
+<h3> 🧠 Tech Stack  </h3>
+<ul>
+	<li><b>Frontend:</b> React, Next.js </li>
+	<li><b>Backend:</b> Node.js, Python (Flask, FastAPI) </li>
+	<li><b>E‑commerce:</b> Shopify theme design and customization  </li>
+	<li><b>Creative Tools:</b> Three.js, GSAP, Framer Motion  </li>
+	<li><b>CI/CD & Workflows:</b> GitHub Actions, deployments, logging, testing automation</li>
+</ul>
+
+<h3>✨ What I’m Exploring  </h3>
+<p>Finding new ways to use **animation**, **interactivity**, and **design systems** to make the web feel more alive and intuitive.  
+Always curious, always building. 🚀  
 </p>
 
----
-
-### 🔭 Currently Focused On:
-- Improving, optimizing and testing my previous works
-- And of course integrating AI into the mix in some form or another
-- Going Deep into Deep Learning
+<h3> ⚡ A Bit of Personality  </h3>
+Even as I write frontend code or fix bugs, I’m still bringing creativity with me. Whether it's an animated 3D interface or a well-structured architecture, my goal is to build systems that are not just functional — but beautiful in their logic.
 
 
----
 
-### 📫 Reach Me
+<h3> 🔭 Currently Focused On:</h3>
+<ul>
+	<li>Improving, optimizing and testing my previous works especially in terms of CI/CD improvements</li>
+	<li>And of course integrating AI into the mix in some form or another</li>
+	<li>Going deep into optimizing 3D animations on the web.</li>
+</ul>
 
-- 📧 **Email:** [sjolsen.bstudios@gmail.com](mailto:sjolsen.bstudios@gmail.com)  
-- 💼 **LinkedIn:** [sj-olsen](https://www.linkedin.com/in/sj-olsen)  
-- 🌐 **Portfolio:** [portfolio-sjolsen.ca](https://portfolio-sjolsen.vercel.app/)
+<h3> 📫 Reach Me</h3>
 
----
+<ul>
+	<li>📧 <b>Email:</b> <a href="mailto:sjolsen.bstudios@gmail.com">sjolsen.bstudios@gmail.com</a></li>
+	<li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sj-olsen" target="_blank" rel="noopener noreferrer">sj-olsen</a>  </li>
+	<li> 🌐 <b>Portfolio:</b> <a href="https://b-stduios-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">portfolio-sjolsen.ca</a> </li>
+</ul>
 
-### 🧰 Tools & Tech Stack
-<div>
-<div align="center">
-	<h4 align="left">Main Skillset</h4>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+<h3> 🛠️ Languages and Tools:</h3>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+	
+<h3> Frontend</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /></td>
+  </tr>
+</table>
+
+
+<h3> Backend</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </td>
+</table>
+
+
+<h3> Databases</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  </td>
+	  </td>
+<td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>  </td>
+</table>
 </div>
-<div align="center">
-	<h4 align="left">Some Web Development Fun</h4>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-</div>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+	
+<h3>DevOps</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>   </td>
+	  </td>
 </div>
 
----
+<h3>Testing</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> </td>
+  </tr>
+</table>
 
-### ⚡ A Bit of Personality  
-Even as I write backend code or fix bugs, I’m still bringing creativity with me. Whether it's an animated 3D interface or a well-structured VPC, my goal is to build systems that are not just functional — but beautiful in their logic.
 
+<h3>Design</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/> </td>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>   </td>
+	  <td>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>  </td>
+	  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>    </td>
+	  </td>
+
+</table>
+ 
+
+<h3>Version Control</h3>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></td>
+    <td>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>   </td>
+</table>
+ </div>
+ 
+ 
+<h2>📊 GitHub Statistics:</h2>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minari314159&layout=compact&theme=dark)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=minari314159.minari314159)
+
+</div>
