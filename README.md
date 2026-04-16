@@ -1,9 +1,7 @@
 <h1 align="center">Hey there 👋, I'm SJ Olsen a Frontend Developer</h1>
 
-<h2>📖 Bio:</h2> 
-
-<p>I’m a frontend developer who loves crafting interfaces that strike a balance between solid architecture and great design.
-I actually started out in biodesign, which taught me to think about form, function, and flow all at once. That mindset stuck with me — now I bring it into how I approach frontend systems, animation, and user interactions.</p>
+<h3>I’m a frontend developer who loves crafting interfaces that strike a balance between solid architecture and great design.
+I actually started out in biodesign, which taught me to think about form, function, and flow all at once. That mindset stuck with me — now I bring it into how I approach frontend systems, animation, and user interactions.</h3>
 
 <h3> 🧠 Tech Stack  </h3>
 <ul>
